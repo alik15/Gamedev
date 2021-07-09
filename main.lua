@@ -1,3 +1,5 @@
+--v1.1
+
 function love.load()
 	--deltatime
 	dt = love.timer.getDelta() 
