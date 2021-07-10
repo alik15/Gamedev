@@ -26,17 +26,17 @@ function love.update(dt)
 
 	--movement commands
 	if love.keyboard.isDown('d') or love.keyboard.isDown('right') then 
-    	player.x = player.x + player.speed
-    elseif love.keyboard.isDown('a') or love.keyboard.isDown('left') then 
-    	player.x = player.x - player.speed
+    		player.x = player.x + player.speed
+  	elseif love.keyboard.isDown('a') or love.keyboard.isDown('left') then 
+    		player.x = player.x - player.speed
 	end
   
 	if love.keyboard.isDown('space') then 
-      	player.y = player.y - 750*dt
-    end
+      		player.y = player.y - 750*dt
+    	end
 
 	--physics
-	if platform.y >= player.y + 120 then
+	if platform.y >= player.y + player.height then
   		player.y = player.y + 300*dt
 	end
 	--player.y = player.y + 300*dt
