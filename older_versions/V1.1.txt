@@ -1,0 +1,16 @@
+
+
+Added keyboard commands 
+  -Left arrow and a for moving left.
+  -Right arrow and d for moving right.
+  -Added jump command for temporary jump.
+
+Added physics 
+  -Added temporary gravity which is a constant velocity downwards.
+  -Added a rule where the player cant move into the ground.
+
+Added Delta time 
+  -Ensures that the movement speed is the same in different systems.
+
+
+--------------------------------------------------------------------
