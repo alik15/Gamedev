@@ -1,18 +1,16 @@
  Added colours
-   -Red for the block
-   -Green for the ground
+   -Red for the block.
+   -Green for the ground.
  
  Reworked keyboard commands
-   -The jump only works once and the player has to return back to the ground to jump again
-   -The acceleration and deceleration downwards has been tweaked
+   -The jump only works once and the player has to return back to the ground to jump again.
+   -The acceleration and deceleration downwards has been tweaked.
 
  Removed the Delta time
-   -LOVE already comes with things to handle cross platform 
+   -LOVE already comes with things to handle cross platform.
 
- Included a number for y position
-   -Shows the y position for debugging purposes 
+ Included a number for y position.
+   -Shows the y position for debugging purposes.
    
-
-
 
 -------------------------------------------------------------------------------------------
