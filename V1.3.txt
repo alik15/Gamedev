@@ -1,0 +1,13 @@
+ Added Jump Feature
+  -Pressing Space moves the player up with deceleration.
+
+ Added Gravity 
+  -The player will always move downwards with a an acceleration.
+
+ Cleared up code
+  -Stray comments and previous jump and gravity logic.
+
+
+----------------------------------------------------------------
+
+
