@@ -1,4 +1,5 @@
- Added Jump Feature
+V2.0 || July  
+Added Jump Feature
   -Pressing Space moves the player up with deceleration.
 
  Added Gravity 
@@ -10,4 +11,11 @@
 
 ----------------------------------------------------------------
 
-
+V3.0 || 20-08-2021
+Major overhaul
+  -Started using classes
+  
+Added Camera
+ -The Screen follows the player around
+ 
+ 
