@@ -19,3 +19,9 @@ Added Camera
  -The Screen follows the player around
  
  
+Added Dynamic movement
+ -The player will move with a slight acceleration
+ 
+ 
+ ----------------------------------------------------------------
+ 
