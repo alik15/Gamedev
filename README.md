@@ -8,3 +8,6 @@ If you want to use it you will have to install:
 
 
 Running the main file will start the game for you.
+
+
+Currently shifting to c++ 
